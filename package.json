@@ -1,7 +1,7 @@
 {
   "name": "spca_scraper",
-  "version": "0.0.1",
-  "description": "Testing",
+  "version": "1.0.0",
+  "description": "Scraping data from the Wellington SPCA site",
   "main": "app.js",
   "scripts": {
     "test": "hi"
@@ -11,5 +11,14 @@
   "dependencies": {
     "cheerio": "^0.20.0",
     "superagent": "^2.1.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/marcus-crane/NZ-SPCA-Scraper.git"
+  },
+  "bugs": {
+    "url": "https://github.com/marcus-crane/NZ-SPCA-Scraper/issues"
+  },
+  "homepage": "https://github.com/marcus-crane/NZ-SPCA-Scraper#readme"
 }
