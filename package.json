@@ -1,0 +1,15 @@
+{
+  "name": "spca_scraper",
+  "version": "0.0.1",
+  "description": "Testing",
+  "main": "app.js",
+  "scripts": {
+    "test": "hi"
+  },
+  "author": "Marcus <marcus@thingsima.de> (http://thingsima.de)",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "superagent": "^2.1.0"
+  }
+}
